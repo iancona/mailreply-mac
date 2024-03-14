@@ -8,7 +8,7 @@
             <sparkle:version>0.1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://iancona.github.io/mailreply-mac/MailReply.dmg" length="1694078" type="application/octet-stream" sparkle:edSignature="kMYAbYQ1uxVwbGDPtp1DPqfTRhAggq6vErlXl8UwKqeyNUiW1EzQIVUt1OMIICp6j6YW/m0Gt29xCnBWwPGiDA=="/>
+            <enclosure url="https://github.com/iancona/mailreply-mac/releases/download/release/MailReply.dmg" length="1694078" type="application/octet-stream" sparkle:edSignature="kMYAbYQ1uxVwbGDPtp1DPqfTRhAggq6vErlXl8UwKqeyNUiW1EzQIVUt1OMIICp6j6YW/m0Gt29xCnBWwPGiDA=="/>
         </item>
     </channel>
 </rss>
